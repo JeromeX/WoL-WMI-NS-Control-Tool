@@ -46,3 +46,19 @@ WakeOps ist eine webbasierte Netzwerk-Operations-Oberfläche zum Scannen, Pingen
 - Systemtools (je nach Features):
   - `ping` (iputils)
   - optional: `ip` (iproute2) für bessere Routing-Erkennung bei WOL
+
+
+## Lizenzsystem
+
+Maschinen-ID
+Die Maschinen-ID wird im Setup generiert und gespeichert. Sie wird im Lizenz-Dialog angezeigt.
+
+Lizenz aktivieren
+
+In der App: Lizenz → Code einfügen → speichern.
+
+Ohne gültige Lizenz gilt:
+
+nur Ping ist aktiv
+
+alle anderen Buttons/Funktionen sind ausgegraut und serverseitig gesperrt
