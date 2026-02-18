@@ -34,7 +34,8 @@ WakeOps ist eine webbasierte Netzwerk-Operations-Oberfläche zum Scannen, Pingen
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="2026-02-16 20_32_12-WakeOps - Malte Speck – Microsoft​ Edge" src="https://github.com/user-attachments/assets/324bc6de-6f48-48bf-8e4f-561a1b42a4b3" />
+<img width="1920" height="1080" alt="2026-02-18 01_06_42-WakeOps - Persönlich – Microsoft​ Edge" src="https://github.com/user-attachments/assets/701324cf-17d9-4ebf-915f-499f425f33ae" />
+<img width="1920" height="1080" alt="2026-02-18 01_08_35-WakeOps - Persönlich – Microsoft​ Edge" src="https://github.com/user-attachments/assets/7816e143-c46f-48c5-bbaa-f2434eb48bda" />
 ---
 
 ## Requirements
