@@ -34,8 +34,14 @@ WakeOps ist eine webbasierte Netzwerk-Operations-Oberfläche zum Scannen, Pingen
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="2026-02-18 01_06_42-WakeOps - Persönlich – Microsoft​ Edge" src="https://github.com/user-attachments/assets/701324cf-17d9-4ebf-915f-499f425f33ae" />
-<img width="1920" height="1080" alt="2026-02-18 01_08_35-WakeOps - Persönlich – Microsoft​ Edge" src="https://github.com/user-attachments/assets/7816e143-c46f-48c5-bbaa-f2434eb48bda" />
+<img width="1912" height="902" alt="2026-02-22 11_17_24-HP-GEN8-SRV-Boreas tlp - root@172 2 8 14_2804 - Bitvise xterm - root@hp-gen8-srv" src="https://github.com/user-attachments/assets/588e667b-6f1f-423d-adf4-5736e1fe3704" />
+<img width="1909" height="904" alt="2026-02-22 11_24_21-" src="https://github.com/user-attachments/assets/d4fd1aea-1ee8-4212-98dd-2a3e1679ec7a" />
+<img width="1920" height="1080" alt="2026-02-22 11_17_59-WakeOps und 1 weitere Seite - Malte Speck – Microsoft​ Edge" src="https://github.com/user-attachments/assets/c448aece-b2e5-4624-96f9-16fe601856ad" />
+<img width="1920" height="1080" alt="2026-02-22 11_19_10-WakeOps und 1 weitere Seite - Malte Speck – Microsoft​ Edge" src="https://github.com/user-attachments/assets/7d5bec6d-75dc-44a9-8d8a-eb74ebc4ed97" />
+<img width="1920" height="1080" alt="2026-02-22 11_19_29-WakeOps Report und 2 weitere Seiten - Malte Speck – Microsoft​ Edge" src="https://github.com/user-attachments/assets/63b67afe-69f1-43c8-9a1b-cd3d164ed5a4" />
+<img width="1920" height="1080" alt="2026-02-22 11_26_54-Clipboard" src="https://github.com/user-attachments/assets/64ef58be-5bcb-461e-95ba-c4c770cc64f3" />
+<img width="1920" height="1080" alt="2026-02-22 11_26_12-Clipboard" src="https://github.com/user-attachments/assets/caf2d549-fb67-45b0-be93-79a23b5f7c4e" />
+
 ---
 
 ## Requirements
